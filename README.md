@@ -11,13 +11,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="500" height="350"/>
 </div>
-  ### :woman_technologist: About Me :
+  ### :woman_technologist:
   
   Hello everyone!
-  
-- I am a beginner developer. 
-- One year with Java 
-- Learning SQL
-- Wrote simple programs - Snake and Chat Application.
-- Currently writing an Archivator for files
  
